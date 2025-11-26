@@ -5,6 +5,17 @@ languageCode = "zh-CN"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 [params]
+  [params.page.library]
+      [params.page.library.css]
+        # 留空
+      [params.page.library.js]
+        # 替换 lunr 为国内源
+        lunr = "https://cdn.bootcdn.net/ajax/libs/lunr.js/2.3.9/lunr.min.js"
+        # 替换 fuse 为国内源 (如果你改回了 fuse 的话)
+        fuse = "https://cdn.bootcdn.net/ajax/libs/fuse.js/6.6.2/fuse.min.js"
+        # 替换主体搜索脚本 (防止这个也被墙)
+        autocomplete = "https://cdn.bootcdn.net/ajax/libs/autocomplete.js/0.38.0/autocomplete.min.js"
+        mark = "https://cdn.bootcdn.net/ajax/libs/mark.js/8.11.1/mark.min.js"
   # 搜索配置
   [params.search]
       enable = true
