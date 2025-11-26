@@ -1,5 +1,4 @@
-
-baseURL = "https://example.org/"
+baseURL = "https://ailikefruit.github.io/"
 title = "Li Jinghao's Blog"
 theme = "FixIt"
 languageCode = "zh-CN"
