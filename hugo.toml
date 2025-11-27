@@ -3,7 +3,8 @@ title = "Li Jinghao's Blog"
 theme = "FixIt"
 languageCode = "zh-CN"
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  # 将 "JSON" 改为 "Search"
+  home = ["HTML", "RSS", "Search"]
 [params]
   localSearch = true
   [params.page.library]
@@ -34,7 +35,7 @@ languageCode = "zh-CN"
     absoluteURL = false
     # header 上的搜索图标（可选）
     header = true
-    path = "index.json"
+
 
     # Fuse.js 的具体配置（本地搜索算法参数）
     [params.search.fuse]
