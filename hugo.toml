@@ -5,6 +5,7 @@ languageCode = "zh-CN"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 [params]
+  localSearch = true
   [params.page.library]
       [params.page.library.css]
         # 留空
