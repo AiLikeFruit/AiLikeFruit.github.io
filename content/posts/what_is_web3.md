@@ -2,7 +2,7 @@
 title: "What Is Web3"
 date: 2025-11-28T16:31:00+08:00
 lastmod: 2025-11-28T16:31:00+08:00
-draft: true
+draft: false
 description: "What is web3" 
 author: "Jinghao Li" 
 # 默认开启数学公式支持（FixIt 主题配置）
