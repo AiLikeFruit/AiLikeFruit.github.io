@@ -12,8 +12,9 @@ toc: true
 tags: []
 categories: []
 ---
-![konisberg bridge abstract pricture](data\pictures\konisberg_bridge.png)
+![konisberg bridge abstract pricture](../../data/pictures\konisberg_bridge.png)
 🌉 What is the Königsberg Bridge Problem?
+
 The Königsberg Bridge Problem is a famous historical problem in mathematics that laid the foundation for graph theory and topology.
 
 The Problem: The city of Königsberg (now Kaliningrad, Russia) was situated on the Pregel River and included two large islands connected to each other and to the two mainland banks by seven bridges. The citizens wondered if it was possible to find a walk through the city that would cross every one of these seven bridges exactly once and return to the starting point.
