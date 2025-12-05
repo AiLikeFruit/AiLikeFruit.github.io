@@ -1,0 +1,1 @@
+hugo new posts/my-new-article.md --kind W:\myblog\myblog\archetypes\default.md
