@@ -12,7 +12,7 @@ toc: true
 tags: []
 categories: []
 ---
-![konisberg bridge abstract pricture](https://github.com/AiLikeFruit/AiLikeFruit.github.io/blob/main/data/pictures/konisberg_bridge.png?raw=true)
+![konisberg bridge abstract picture](https://github.com/AiLikeFruit/AiLikeFruit.github.io/blob/main/data/pictures/konisberg_bridge.png?raw=true)
 🌉 What is the Königsberg Bridge Problem?
 
 The Königsberg Bridge Problem is a famous historical problem in mathematics that laid the foundation for graph theory and topology.
